@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Iskandarov9799
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Qudrat Iskandarov — Fullstack Developer
+React • Django • Vue • Laravel • Telegram Bots • AI Integration
 
-<!---
-Iskandarov9799/Iskandarov9799 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📍 Uzbekistan | 4+ years experience
+🔗 Portfolio: iskandarovdev.vercel.app
